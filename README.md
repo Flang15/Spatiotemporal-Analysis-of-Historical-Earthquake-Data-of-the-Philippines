@@ -1,0 +1,1 @@
+# Spatiotemporal-Analysis-of-Historical-Earthquake-Data-of-the-Philippines
