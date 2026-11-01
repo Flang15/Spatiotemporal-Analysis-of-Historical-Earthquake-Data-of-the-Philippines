@@ -1,4 +1,4 @@
-# Spatiotemporal-Analysis-of-Historical-Earthquake-Data-of-the-Philippines
+# Spatiotemporal Analysis of Historical Earthquake Data in the Philippines
 
 Research Objectives
 
@@ -15,4 +15,3 @@ The notebook consist of the following:
 * Hypothesis Testing
 * Machine Learning Model Building, Training, and Evaluation
 
-Additional Information:
